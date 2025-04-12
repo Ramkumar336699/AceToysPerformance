@@ -3,7 +3,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import static java.util.Objects.requireNonNull;
 
-public class IDEPathHelper {
+public class    IDEPathHelper {
 
   static final Path mavenSourcesDirectory;
   static final Path mavenResourcesDirectory;
